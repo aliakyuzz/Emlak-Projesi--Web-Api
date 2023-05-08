@@ -1,0 +1,59 @@
+C:\Users\Ali\source\repos\Emlak Projesi\bin\Emlak Projesi.dll.config
+C:\Users\Ali\source\repos\Emlak Projesi\bin\Emlak Projesi.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\Emlak Projesi.pdb
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\csc.exe
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\csc.exe.config
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\csc.rsp
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\csi.exe
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\csi.exe.config
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\csi.rsp
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\vbc.exe
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\vbc.exe.config
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\vbc.rsp
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ali\source\repos\Emlak Projesi\bin\EntityFramework.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\Newtonsoft.Json.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\System.Net.Http.Formatting.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\System.Web.Http.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\System.Web.Http.WebHost.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\EntityFramework.xml
+C:\Users\Ali\source\repos\Emlak Projesi\bin\EntityFramework.SqlServer.xml
+C:\Users\Ali\source\repos\Emlak Projesi\bin\Newtonsoft.Json.xml
+C:\Users\Ali\source\repos\Emlak Projesi\bin\System.Net.Http.Formatting.xml
+C:\Users\Ali\source\repos\Emlak Projesi\bin\System.Web.Http.xml
+C:\Users\Ali\source\repos\Emlak Projesi\bin\System.Web.Http.WebHost.xml
+C:\Users\Ali\source\repos\Emlak Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ali\source\repos\Emlak Projesi\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\tr\System.Web.Http.resources.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\Ali\source\repos\Emlak Projesi\obj\Debug\Emlak Projesi.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\Emlak Projesi\obj\Debug\Emlak Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Emlak Projesi\obj\Debug\Emlak Projesi.csproj.CopyComplete
+C:\Users\Ali\source\repos\Emlak Projesi\obj\Debug\Emlak Projesi.dll
+C:\Users\Ali\source\repos\Emlak Projesi\obj\Debug\Emlak Projesi.pdb
+C:\Users\Ali\source\repos\Emlak Projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\Swashbuckle.Core.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\WebActivatorEx.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\System.Buffers.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\System.Memory.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Ali\source\repos\Emlak Projesi\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll

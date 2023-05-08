@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB01Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Kategori">
+    <Key>
+      <PropertyRef Name="katId" />
+    </Key>
+    <Property Name="katId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="katAdi" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Urun">
+    <Key>
+      <PropertyRef Name="urunId" />
+    </Key>
+    <Property Name="urunId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="urunAdi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="urunKatId" Type="int" Nullable="false" />
+    <Property Name="urunFiyat" Type="numeric" Precision="22" Scale="2" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Urun_ToKategori">
+    <End Role="Kategori" Type="Self.Kategori" Multiplicity="1" />
+    <End Role="Urun" Type="Self.Urun" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategori">
+        <PropertyRef Name="katId" />
+      </Principal>
+      <Dependent Role="Urun">
+        <PropertyRef Name="urunKatId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DB01ModelStoreContainer">
+    <EntitySet Name="Kategori" EntityType="Self.Kategori" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Urun" EntityType="Self.Urun" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Urun_ToKategori" Association="Self.FK_Urun_ToKategori">
+      <End Role="Kategori" EntitySet="Kategori" />
+      <End Role="Urun" EntitySet="Urun" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

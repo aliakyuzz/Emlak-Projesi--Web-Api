@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB01ModelStoreContainer" CdmEntityContainer="DB01Entities">
+    <EntitySetMapping Name="Kategori">
+      <EntityTypeMapping TypeName="DB01Model.Kategori">
+        <MappingFragment StoreEntitySet="Kategori">
+          <ScalarProperty Name="katId" ColumnName="katId" />
+          <ScalarProperty Name="katAdi" ColumnName="katAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Urun">
+      <EntityTypeMapping TypeName="DB01Model.Urun">
+        <MappingFragment StoreEntitySet="Urun">
+          <ScalarProperty Name="urunId" ColumnName="urunId" />
+          <ScalarProperty Name="urunAdi" ColumnName="urunAdi" />
+          <ScalarProperty Name="urunKatId" ColumnName="urunKatId" />
+          <ScalarProperty Name="urunFiyat" ColumnName="urunFiyat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
